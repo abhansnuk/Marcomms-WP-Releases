@@ -1,3 +1,8 @@
+Update 1/2022: 
+This repo may stay as a secondary repo under the WordPress organization for the Marketing Team. Please see updates added to the other repos which have been transferred across to this organization from the Marketing Team organization. The information below in the ReadMe file is to be retained and added to.
+Thank you. Abha
+
+
 # WP-Releases
 Collaborations and creation of assets related to Marketing and Communication directly related to WP releases, FSE, Gutenberg updates.
 
